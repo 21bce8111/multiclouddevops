@@ -10,7 +10,7 @@ result = np.dot(A, B)
 # Display the result
 print("M")
 print(A)
-print("\nMatrix B:")
+print("\nMatr")
 print(B)
 print("\nResult of A x B:")
 print(result)
