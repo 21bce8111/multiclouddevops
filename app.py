@@ -8,7 +8,7 @@ B = np.array([[7, 8], [9, 10], [11, 12]])
 result = np.dot(A, B)
 
 # Display the result
-print("Matrix A:")
+print("Matrix")
 print(A)
 print("\nMatrix B:")
 print(B)
